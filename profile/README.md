@@ -20,10 +20,10 @@ This organization was migrated to a better code hosting platform. Here are some 
 [fdf](https://codeberg.org/27/fdf) - Wireframing 101, where parsing a file properly and getting a window to not leak are the hardest parts.  
 
 [philosophers](https://codeberg.org/27/philosophers) - Pondering about the crucial state of our existence... or whether or not we can eat spaghetti apparently.  
-[minishell](https://codeberg.org/27/minishell) - A shell, but in a (small) form-factor! Built with love, passion, and a whole lot of cocaine.  
+[minishell](https://github.com/27network/minishell) - *(not migrated)* A shell, but in a (small) form-factor! Built with love, passion, and a whole lot of cocaine.  
 
 [cpp-modules](https://codeberg.org/27/cpp-modules) - Because C wasn't painful enough.  
-[rt](https://codeberg.org/27/rt) - A raytracer in C using a cursed graphics library and a severe lack of math knowledge  
+[rt](https://github.com/27network/rt) - *(not migrated)* A raytracer in C using a cursed graphics library and a severe lack of math knowledge  
 
 ## Post common-core 
 
